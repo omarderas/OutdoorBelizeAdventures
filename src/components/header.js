@@ -11,7 +11,7 @@ const MainLogo = "../images/outdoor-logo.png";
 const Header = ({ siteTitle }) => (
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" title="" href="/">  <StaticImage src="../images/outdoor-logo.png" quality={60} formats={["auto", "webp", "avif"]} /></a>
+  <a class="navbar-brand" title="" href="/">  <StaticImage src="../images/outdoor-logo.png" quality={60} formats={["auto"]} /></a>
   
 <div className="contact-block">
 

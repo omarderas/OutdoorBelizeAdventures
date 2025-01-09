@@ -64,7 +64,7 @@ const Footer = () => {
             <div className="col-sm-4">
                 <div className="footer-content">
                 <a className="brand" title="" href="/">  
-                <StaticImage src="../images/outdoor-logo.png" quality={60} formats={["auto", "webp", "avif"]} />
+                <StaticImage src="../images/outdoor-logo.png" quality={60} formats={["auto"]} />
                 <p>Outdoor Belize Adventures can make your Belize stay a truly memorable adventure! We offer a true taste of the Great Belizean Outdoors. Allow us to hook you up with some real Belizean Experince that will not disappoint you!</p>
                 </a>
                
